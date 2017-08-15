@@ -21,11 +21,11 @@ int main()
 	std::cout << "0" << std::endl;
 	
 	//Variable count out NF
-	int a, b;
+	int a;
 	int result;
 
 	a = -1;
-	result = a + 1;
+	result = ++a;
 	std::cout << result;
 
 	system("pause");
