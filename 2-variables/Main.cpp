@@ -124,8 +124,9 @@ int main()
 	//int gandhi_aggression;
 
 
-	int num;        // integer
-	float num2;     // single precision floating point
+	//int num;        // integer
+	//float num2;     // single precision floating point
+
 
 
 	system("pause");
