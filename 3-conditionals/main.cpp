@@ -136,7 +136,7 @@ int main()
 	// 3 / 2 = 1
 
 	
-	std::cout << "Input a range of numbers then a random number" << std::endl;
+	/*std::cout << "Input a range of numbers then a random number" << std::endl;
 	int c = 0;
 	int d = 0;
 	int e = 0;
@@ -154,7 +154,8 @@ int main()
 		std::cout << c << std::endl;
 	}
 	else 
-	std::cout << c << std::endl;
+	std::cout << c << std::endl;*/
+
 
 
 	system("pause");
