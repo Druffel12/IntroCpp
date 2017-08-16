@@ -87,11 +87,39 @@ void more()
 }
 void clamp()
 {
+	/*int x = 0;
+	int y = 0;
+	int z = 0;
+	
+	std::cout << "input a range" << std::endl;
+	std::cin >> x;
+	std::cin >> y;
+	std::cout << "input a number" << std::endl;
+	std::cin >> z;
+	
+	if (z < x)
+	{
+		z = x;
+	}
+	else if (x > y)
+	{
+		z = y;
+	}
+	std::cout << z << std::endl;*/
+
+}
+void Distance(float x1, float y1, float x2, float y2)
+{
+	return(x2 - x1) * (x2 - x1)) + ((y2 - y1) * (y2 * y1)
+}
+void Eta()
+{
 
 }
 
 int main()
 {
+
 	HF();
 
 	square();
@@ -105,6 +133,10 @@ int main()
 	lesser();
 
 	more();
+
+	clamp();
+	
+	Distance();
 
 	system("pause");
 }
